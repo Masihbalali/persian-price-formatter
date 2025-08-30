@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "strict": true,
+    "declaration": true,
+    "outDir": "./dist",
+    "rootDir": "./",
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "include": ["index.js", "PriceConvertor.tsx"],
+  "exclude": ["node_modules", "dist", "**/*.test.js"]
+}
