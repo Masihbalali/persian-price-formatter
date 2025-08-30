@@ -176,4 +176,4 @@ balalimasih@gmail.com
 
 ## Repository
 
-[https://github.com/yourusername/persian-price-formatter](https://github.com/yourusername/persian-price-formatter)
+https://github.com/Masihbalali/persian-price-formatter
